@@ -31,3 +31,6 @@
   MITRE DEFEND is a countermeasure framework that helps organizations prevent and disrupt cyber threats. It provides a structured way to apply active defense techniques, making it easier to stop attackers before they succeed.
 
   It builds on the MITRE ATT&CK framework but focuses on defensive actions rather than attacker behaviors. It includes strategies like deception, adversary engagement, and attack disruption to protect systems effectively.
+
+
+  **Source:** [TryHackMe link](https://tryhackme.com/room/mitre)
