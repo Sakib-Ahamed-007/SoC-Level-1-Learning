@@ -26,7 +26,7 @@
 
 # MITRE D3FEND
 
-  D3FEND stands for Detection, Denial, and Disruption Framework Empowering Network Defense. 
+  [D3FEND link](https://d3fend.mitre.org/) stands for Detection, Denial, and Disruption Framework Empowering Network Defense. 
 
   MITRE DEFEND is a countermeasure framework that helps organizations prevent and disrupt cyber threats. It provides a structured way to apply active defense techniques, making it easier to stop attackers before they succeed.
 
